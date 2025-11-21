@@ -8,7 +8,11 @@ public class ClassA {
 		
 		System.out.println("-----------GreatOne---------");
 		System.out.println("-----The-GreatestOne---------");
+<<<<<<< HEAD
 		System.out.println("Testyantra");
 		
+=======
+		System.out.println("Some things is wrong");
+>>>>>>> SoumyaEy
 	}
 }
